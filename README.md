@@ -1,9 +1,12 @@
-# LaPSEE Minicourse — Session 1: From Circuits to Graphs, From Graphs to Space
+# LaPSEE Minicourse — Introduction to Power Networks as Intelligent Graphs
 
 Materials for the UNESP / LaPSEE graduate minicourse **"Introduction to Power
-Networks as Intelligent Graphs"**, Session 1.
+Networks as Intelligent Graphs: From Topology and Spatial Econometrics to
+Multi-Agent Decision Making"**.
 
 ## Contents
+
+### Session 1 — From Circuits to Graphs, From Graphs to Space
 
 | File | Purpose |
 |------|---------|
@@ -11,7 +14,20 @@ Networks as Intelligent Graphs"**, Session 1.
 | `s01_reading-student.pdf` | Pre- and post-class student reading |
 | `s01_graphs-and-space.ipynb` | Lab notebook (Labs 1a + 1b + capstone) |
 | `lapsee_s01.py` | Helper module imported by the notebook |
-| `requirements.txt` | Pinned Python environment |
+
+### Session 2 — Spatial Analysis of Prices and Generation Siting
+
+| File | Purpose |
+|------|---------|
+| `s02_spatial_3.pdf` | Lecture slide deck (projected in class) |
+| `s02_reading-student.pdf` | Pre- and post-class student reading |
+| `s02_spatial-prices-siting.ipynb` | Lab notebook (Labs 2a + 2b + capstone) |
+
+### Shared
+
+| File | Purpose |
+|------|---------|
+| `requirements.txt` | Pinned Python environment (covers all sessions) |
 
 ## Prerequisites
 
